@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav a {
+    text-decoration: none;
+    display: inline-block;
+    margin-right: -4px;
+    background-color: black;
+    color: bisque;
+    padding: 0.5em;
+    border-right: 1px solid white;
+    text-transform: uppercase;
+    font-kerning: ;
+}
